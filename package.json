@@ -1,0 +1,28 @@
+{
+  "name": "linearjs",
+  "version": "0.1.0",
+  "description": "first npm module",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "nidhin",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "linearNP"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "git": "^0.1.5"
+  }
+}
